@@ -9,5 +9,7 @@ Jekyll blog based on [Clean Blog](http://startbootstrap.com/template-overviews/c
 
 ## Copyright and License
 Copyright of Candice Ip.
-Template from ShikherVerma.  
+
+Template from ShikherVerma.
+  
 All rights reserved for the content data under `_posts`, `_portfolio` and `_images`, the rest of the code is released under the [MIT](https://github.com/candicei/candicei.github.io/blob/master/LICENSE) license.
