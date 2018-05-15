@@ -1,9 +1,0 @@
----
-anchor: cloud
-title: Cloud Chamber
-image: img/portfolio/cloud.png
-description: I am currently building a self-sustaining cloud chamber with peltier tiles. Current status: testing peltier tiles.  
-team: Self
-date: May 2018
-category: Mechanical
----
