@@ -25,7 +25,7 @@ rss : false
 
 # used for portfolio on home page
 collections:
-  - portfolio
+  - portfolio 
 
 # used to estimate reading time
 wpm: 150
