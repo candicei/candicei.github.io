@@ -4,7 +4,7 @@ title:      "Lorem Ipsum"
 subtitle:   "Reminders to Eat What I Say with a Grain of Salt"
 date:       2018-05-15 17:45:00
 author:     "Candice Ip"
-header-img: "img/posts/extra.jpg"
+header-img: "img/posts/lorem-ipsum.jpg"
 comments: true
 tags: [lol]
 ---
